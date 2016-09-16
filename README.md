@@ -10,6 +10,9 @@ We have also play online on (http://chhotu.pe.hu/compile/compile.html)
 HOW TO PLAY A GAME:
 
 1> install the unity web player
+
 2> Allow the java plugin
+
 3> please make sure that the internet speed should be fast
+
 4> enjoy the game!
