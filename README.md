@@ -7,7 +7,8 @@ Chhotu is a 3D game developed using Unity 3D framework. Since the whole code fol
 We have also play online on (http://chhotu.pe.hu/compile/compile.html)
 
 
-HOW TO PLAY A GAME
+HOW TO PLAY A GAME:
+
 1> install the unity web player
 2> Allow the java plugin
 3> please make sure that the internet speed should be fast
