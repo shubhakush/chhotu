@@ -15,4 +15,6 @@ HOW TO PLAY A GAME:
 
 3> please make sure that the internet speed should be fast
 
-4> enjoy the game!
+4>if the plug in doen not load propely.click on refersh button and try again
+
+5> enjoy the game!
